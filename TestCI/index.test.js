@@ -1,5 +1,5 @@
-const holaMundo = require('./index');
+const holamundo = require('./index');
 
 test('Debe retornar "Hola Mundo"', () => {
-    expect(holaMundo()).toBe('Hola Mundo');
+    expect(holamundo()).toBe("Hola Mundo");
 });

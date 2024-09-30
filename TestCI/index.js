@@ -1,5 +1,5 @@
-function holaMundo() {
+function holamundo() {
     return "Hola Mundo";
 }
 
-module.exports = holaMundo;
+module.exports = holamundo;
